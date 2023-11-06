@@ -36,7 +36,8 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
- <img width="639" alt="image" src="https://github.com/DurgaV240106/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/144870878/e4680ae4-b093-4103-8f48-adef92d3174b">
+ ![Uploading EDM ex-2.png…]()
+
 
  
  ## RESULT
